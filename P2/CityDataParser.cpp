@@ -2,8 +2,8 @@
 // CityDataParser.cpp
 // Implementation file for the city data parser class.
 //
-// Author: Dr. Rick Coleman
-// Date: July 2011
+// Author: Ulugbek Nosirov
+// Date: April 2021
 //========================================================
 #pragma warning(disable : 4996)
 
