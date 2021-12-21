@@ -2,8 +2,8 @@
 // CityDataParser.h
 // Interface file for the city data parser class.
 //
-// Author: Dr. Rick Coleman
-// Date: July 2011
+// Author: Ulugbek Nosirov
+// Date: April 2021
 //========================================================
 #ifndef CITYDATAPARSER_H
 #define CITYDATAPARSER_H
