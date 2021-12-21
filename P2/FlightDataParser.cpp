@@ -2,8 +2,8 @@
 // FlightDataParser.cpp
 // Implementation file for the flight data parser class.
 //
-// Author: Dr. Rick Coleman
-// Date: August 2011
+// Author: Ulugbek Nosirov
+// Date: April 2021
 //========================================================
 #pragma warning(disable : 4996)
 
