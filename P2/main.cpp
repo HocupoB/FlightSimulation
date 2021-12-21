@@ -15,7 +15,6 @@ int main()
 
     cout << "==============================================================" << endl;
     cout << "|          AIRLINE FLIGHT SIMULATION DEMONSTRATION           |" << endl;
-    cout << "|            CS 307 -- Programming Assignment 2              |" << endl;
     cout << "==============================================================" << endl << endl;
 
     cout << "Please enter the name of the simulation data file then press Enter:" << endl;
